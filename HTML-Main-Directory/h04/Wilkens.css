@@ -1,0 +1,42 @@
+body{
+    font-family:"Arial";
+}
+
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right:5px;
+    border-right: 2px solid white;
+}
+
+nav{
+    background-color: black;
+    padding: 10px;
+}
+
+div.Wrapper{
+    width: 960px;
+    margin: auto;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 15px;
+    border: 1px solid black;
+}
+
+td.groen{
+    background-color: lightgreen;
+}
+
+td.blauw{
+    background-color: lightblue;
+}
+img#poep {
+    width: 100%;
+}
