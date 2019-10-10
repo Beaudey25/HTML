@@ -40,3 +40,14 @@ td.blauw{
 img#poep {
     width: 100%;
 }
+ article{
+     float:left;
+     width:465px;
+     margin-top: 30px;
+     margin-right: 30px;
+ }
+ table{
+     width: 465px;
+     float: right;
+     margin-top: 30px;
+ }
