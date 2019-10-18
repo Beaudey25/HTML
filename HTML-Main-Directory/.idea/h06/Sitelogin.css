@@ -1,0 +1,35 @@
+body{
+
+}
+
+textarea {
+    padding: 10px;
+    width: 300px;
+}
+
+div.form-group{
+    widows: 500px;
+    padding: 20px;
+}
+input{
+    width: 150x;
+}
+input.voornaam {
+    margin-left: 13px;
+}
+form div input {
+    margin-left: 10px;
+}
+
+section.firstsection {
+    width: 50%;
+    float: left;
+    background-color: darkred;
+}
+
+section.secondsection {
+    width: 25%;
+    float: left;
+    height: 441px;
+    background-color: aqua;
+}

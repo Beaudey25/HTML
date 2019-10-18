@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 10px;
+    vertical-align: top;
+}
