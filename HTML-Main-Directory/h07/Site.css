@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    padding: 5px;
+    padding: 0px;
     background-color: rgb(250,241,234);
     font-family: 'Raleway', sans-serif;
 }
@@ -74,6 +74,10 @@ section,footer {
         width: 40%;
         font-size: 20px;
         float: left;
+    }
+    section#youtubers {
+        width: 60%;
+        float: right;
     }
 }
 
